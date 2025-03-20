@@ -1,0 +1,9 @@
+ProductID,ProductName,Category,UnitPrice,Weight,Supplier
+101,laptop,Electronics,793.12,5.0,IStar
+102,hoodie,Clothing,39.1,1.0,Ableyou
+103,cable,Electronics,22.76,0.5,IStar
+104,hat,Clothing,43.1,0.5,Ableyou
+105,football,Sports,19.78,1.0,SWSports
+106,controller,Electronics,88.98,2.0,IStar
+107,jacket,Clothing,67.02,1.0,Ableyou
+108,protector,Electronics,12.56,7.0,IStar
