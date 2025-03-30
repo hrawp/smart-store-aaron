@@ -1,4 +1,14 @@
 # smart-store-aaron
+#
+Project 3
+## Scripts used
+```data_prep.py  This script can be used for data cleaning
+```
+```data_scrubber.py  This script holds the indvidual clean methods and called by data_prep.py
+```
+```data_prep.py  This script can be used for data cleaning
+```
+
 # 
 Project 2
 ## How to Install and Run the Project

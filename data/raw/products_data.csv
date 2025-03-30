@@ -4,7 +4,7 @@ ProductID,ProductName,Category,UnitPrice,Weight,Supplier
 103,cable,Electronics,22.76,0.5,IStar
 104,hat,Clothing,43.1,0.5,Ableyou
 105,football,Sports,19.78,1,SWSports
-106,controller,Electronics,88.98,,
+106,controller,Electronics,88.98,2,IStar
 107,jacket,Clothing,67.02,1,Ableyou
 108,protector,Electronics,12.56,7,IStar
 108,protector,Electronics,12.56,7,IStar
