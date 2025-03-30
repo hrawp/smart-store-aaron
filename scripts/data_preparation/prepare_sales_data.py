@@ -213,7 +213,7 @@ def main() -> None:
     Main function for processing product data.
     """
     logger.info("==================================")
-    logger.info("STARTING prepare_products_data.py")
+    logger.info("STARTING prepare_sales_data.py")
     logger.info("==================================")
 
     logger.info(f"Root project folder: {PROJECT_ROOT}")

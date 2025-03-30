@@ -103,3 +103,55 @@
 2025-03-23 19:50:13.055 | INFO     | __main__:main:85 - ========================
 2025-03-23 19:50:13.055 | INFO     | __main__:main:86 - Starting PRODUCTS prep
 2025-03-23 19:50:13.056 | INFO     | __main__:main:87 - ========================
+2025-03-29 17:49:08.742 | INFO     | utils.logger:<module>:39 - Logging to file: logs\project_log.log
+2025-03-29 17:49:08.754 | INFO     | __main__:main:59 - ======================
+2025-03-29 17:49:08.754 | INFO     | __main__:main:60 - STARTING data_prep.py
+2025-03-29 17:49:08.755 | INFO     | __main__:main:61 - ======================
+2025-03-29 17:49:08.757 | INFO     | __main__:main:63 - ========================
+2025-03-29 17:49:08.758 | INFO     | __main__:main:64 - Starting CUSTOMERS prep
+2025-03-29 17:49:08.759 | INFO     | __main__:main:65 - ========================
+2025-03-29 17:49:08.867 | INFO     | __main__:save_prepared_data:55 - Data saved to C:\Projects\smart-store-aaron\data\prepared\customers_data_prepared.csv
+2025-03-29 17:49:08.868 | INFO     | __main__:main:85 - ========================
+2025-03-29 17:49:08.869 | INFO     | __main__:main:86 - Starting PRODUCTS prep
+2025-03-29 17:49:08.870 | INFO     | __main__:main:87 - ========================
+2025-03-29 17:51:12.833 | INFO     | utils.logger:<module>:39 - Logging to file: logs\project_log.log
+2025-03-29 17:51:12.835 | INFO     | __main__:main:59 - ======================
+2025-03-29 17:51:12.836 | INFO     | __main__:main:60 - STARTING data_prep.py
+2025-03-29 17:51:12.837 | INFO     | __main__:main:61 - ======================
+2025-03-29 17:51:12.837 | INFO     | __main__:main:63 - ========================
+2025-03-29 17:51:12.838 | INFO     | __main__:main:64 - Starting CUSTOMERS prep
+2025-03-29 17:51:12.839 | INFO     | __main__:main:65 - ========================
+2025-03-29 17:51:12.882 | INFO     | __main__:save_prepared_data:55 - Data saved to C:\Projects\smart-store-aaron\data\prepared\customers_data_prepared.csv
+2025-03-29 17:51:12.883 | INFO     | __main__:main:85 - ========================
+2025-03-29 17:51:12.884 | INFO     | __main__:main:86 - Starting PRODUCTS prep
+2025-03-29 17:51:12.884 | INFO     | __main__:main:87 - ========================
+2025-03-29 17:52:58.028 | INFO     | utils.logger:<module>:39 - Logging to file: logs\project_log.log
+2025-03-29 17:52:58.031 | INFO     | __main__:main:59 - ======================
+2025-03-29 17:52:58.032 | INFO     | __main__:main:60 - STARTING data_prep.py
+2025-03-29 17:52:58.033 | INFO     | __main__:main:61 - ======================
+2025-03-29 17:52:58.033 | INFO     | __main__:main:63 - ========================
+2025-03-29 17:52:58.034 | INFO     | __main__:main:64 - Starting CUSTOMERS prep
+2025-03-29 17:52:58.035 | INFO     | __main__:main:65 - ========================
+2025-03-29 17:52:58.070 | INFO     | __main__:save_prepared_data:55 - Data saved to C:\Projects\smart-store-aaron\data\prepared\customers_data_prepared.csv
+2025-03-29 17:52:58.071 | INFO     | __main__:main:85 - ========================
+2025-03-29 17:52:58.072 | INFO     | __main__:main:86 - Starting PRODUCTS prep
+2025-03-29 17:52:58.074 | INFO     | __main__:main:87 - ========================
+2025-03-29 17:59:41.277 | INFO     | utils.logger:<module>:39 - Logging to file: logs\project_log.log
+2025-03-29 17:59:41.280 | INFO     | __main__:main:59 - ======================
+2025-03-29 17:59:41.280 | INFO     | __main__:main:60 - STARTING data_prep.py
+2025-03-29 17:59:41.281 | INFO     | __main__:main:61 - ======================
+2025-03-29 17:59:41.282 | INFO     | __main__:main:63 - ========================
+2025-03-29 17:59:41.282 | INFO     | __main__:main:64 - Starting CUSTOMERS prep
+2025-03-29 17:59:41.283 | INFO     | __main__:main:65 - ========================
+2025-03-29 17:59:41.317 | INFO     | __main__:save_prepared_data:55 - Data saved to C:\Projects\smart-store-aaron\data\prepared\customers_data_prepared.csv
+2025-03-29 17:59:41.318 | INFO     | __main__:main:85 - ========================
+2025-03-29 17:59:41.319 | INFO     | __main__:main:86 - Starting PRODUCTS prep
+2025-03-29 17:59:41.319 | INFO     | __main__:main:87 - ========================
+2025-03-29 17:59:41.345 | INFO     | __main__:save_prepared_data:55 - Data saved to C:\Projects\smart-store-aaron\data\prepared\products_data_prepared.csv
+2025-03-29 17:59:41.348 | INFO     | __main__:main:103 - ========================
+2025-03-29 17:59:41.348 | INFO     | __main__:main:104 - Starting SALES prep
+2025-03-29 17:59:41.349 | INFO     | __main__:main:105 - ========================
+2025-03-29 17:59:41.548 | INFO     | __main__:save_prepared_data:55 - Data saved to C:\Projects\smart-store-aaron\data\prepared\sales_data_prepared.csv
+2025-03-29 17:59:41.549 | INFO     | __main__:main:124 - ======================
+2025-03-29 17:59:41.550 | INFO     | __main__:main:125 - FINISHED data_prep.py
+2025-03-29 17:59:41.551 | INFO     | __main__:main:126 - ======================
