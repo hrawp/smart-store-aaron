@@ -9,8 +9,9 @@ data_prep.py  This script can be used for data cleaning
 data_scrubber.py  This script holds the indvidual clean methods and called by data_prep.py
 ```
 ```
-data_prep.py  This script can be used for data cleaning
+test_data_scrubber.py  This script can be used for testing cleaning programs.
 ```
+
 
 # 
 Project 2
