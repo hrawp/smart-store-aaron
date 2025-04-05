@@ -1,5 +1,9 @@
 # smart-store-aaron
 #
+<<<<<<< HEAD
+=======
+
+>>>>>>> 6611c39512e1d457ac27e18cc6a7fd6bd8c83243
 Project 4
 
 I had to change file paths to get the dw file in the correct location while still have the etl_to_dw.py in scripts folder.
@@ -7,7 +11,10 @@ I had to change the name of the columns.  I'm not sure if that is correct or not
 I had to update the columns for the additional columns I had made.
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 6611c39512e1d457ac27e18cc6a7fd6bd8c83243
 Project 3
 ## Scripts used
 ```
