@@ -155,3 +155,232 @@
 2025-03-29 17:59:41.549 | INFO     | __main__:main:124 - ======================
 2025-03-29 17:59:41.550 | INFO     | __main__:main:125 - FINISHED data_prep.py
 2025-03-29 17:59:41.551 | INFO     | __main__:main:126 - ======================
+2025-04-04 17:30:37.587 | INFO     | utils.logger:<module>:39 - Logging to file: logs\project_log.log
+2025-04-04 17:30:37.659 | INFO     | __main__:main:59 - ======================
+2025-04-04 17:30:37.660 | INFO     | __main__:main:60 - STARTING data_prep.py
+2025-04-04 17:30:37.660 | INFO     | __main__:main:61 - ======================
+2025-04-04 17:30:37.660 | INFO     | __main__:main:63 - ========================
+2025-04-04 17:30:37.661 | INFO     | __main__:main:64 - Starting CUSTOMERS prep
+2025-04-04 17:30:37.661 | INFO     | __main__:main:65 - ========================
+2025-04-04 17:30:37.926 | INFO     | __main__:save_prepared_data:55 - Data saved to C:\Projects\smart-store-aaron\data\prepared\customers_data_prepared.csv
+2025-04-04 17:30:37.926 | INFO     | __main__:main:85 - ========================
+2025-04-04 17:30:37.927 | INFO     | __main__:main:86 - Starting PRODUCTS prep
+2025-04-04 17:30:37.927 | INFO     | __main__:main:87 - ========================
+2025-04-04 17:30:38.023 | INFO     | __main__:save_prepared_data:55 - Data saved to C:\Projects\smart-store-aaron\data\prepared\products_data_prepared.csv
+2025-04-04 17:30:38.024 | INFO     | __main__:main:103 - ========================
+2025-04-04 17:30:38.024 | INFO     | __main__:main:104 - Starting SALES prep
+2025-04-04 17:30:38.025 | INFO     | __main__:main:105 - ========================
+2025-04-04 17:30:38.089 | INFO     | __main__:save_prepared_data:55 - Data saved to C:\Projects\smart-store-aaron\data\prepared\sales_data_prepared.csv
+2025-04-04 17:30:38.090 | INFO     | __main__:main:124 - ======================
+2025-04-04 17:30:38.090 | INFO     | __main__:main:125 - FINISHED data_prep.py
+2025-04-04 17:30:38.097 | INFO     | __main__:main:126 - ======================
+2025-04-04 18:16:44.853 | INFO     | utils.logger:<module>:39 - Logging to file: logs\project_log.log
+2025-04-04 18:16:44.858 | INFO     | __main__:main:59 - ======================
+2025-04-04 18:16:44.859 | INFO     | __main__:main:60 - STARTING data_prep.py
+2025-04-04 18:16:44.861 | INFO     | __main__:main:61 - ======================
+2025-04-04 18:16:44.862 | INFO     | __main__:main:63 - ========================
+2025-04-04 18:16:44.863 | INFO     | __main__:main:64 - Starting CUSTOMERS prep
+2025-04-04 18:16:44.864 | INFO     | __main__:main:65 - ========================
+2025-04-04 18:17:12.648 | INFO     | utils.logger:<module>:39 - Logging to file: logs\project_log.log
+2025-04-04 18:17:12.651 | INFO     | __main__:main:59 - ======================
+2025-04-04 18:17:12.652 | INFO     | __main__:main:60 - STARTING data_prep.py
+2025-04-04 18:17:12.656 | INFO     | __main__:main:61 - ======================
+2025-04-04 18:17:12.657 | INFO     | __main__:main:63 - ========================
+2025-04-04 18:17:12.658 | INFO     | __main__:main:64 - Starting CUSTOMERS prep
+2025-04-04 18:17:12.659 | INFO     | __main__:main:65 - ========================
+2025-04-04 18:17:12.742 | INFO     | __main__:save_prepared_data:55 - Data saved to C:\Projects\smart-store-aaron\data\prepared\customers_data_prepared.csv
+2025-04-04 18:17:12.743 | INFO     | __main__:main:86 - ========================
+2025-04-04 18:17:12.744 | INFO     | __main__:main:87 - Starting PRODUCTS prep
+2025-04-04 18:17:12.744 | INFO     | __main__:main:88 - ========================
+2025-04-04 18:17:12.771 | INFO     | __main__:save_prepared_data:55 - Data saved to C:\Projects\smart-store-aaron\data\prepared\products_data_prepared.csv
+2025-04-04 18:17:12.771 | INFO     | __main__:main:104 - ========================
+2025-04-04 18:17:12.772 | INFO     | __main__:main:105 - Starting SALES prep
+2025-04-04 18:17:12.773 | INFO     | __main__:main:106 - ========================
+2025-04-04 18:17:12.812 | INFO     | __main__:save_prepared_data:55 - Data saved to C:\Projects\smart-store-aaron\data\prepared\sales_data_prepared.csv
+2025-04-04 18:17:12.813 | INFO     | __main__:main:125 - ======================
+2025-04-04 18:17:12.814 | INFO     | __main__:main:126 - FINISHED data_prep.py
+2025-04-04 18:17:12.814 | INFO     | __main__:main:127 - ======================
+2025-04-04 18:17:59.508 | INFO     | utils.logger:<module>:39 - Logging to file: logs\project_log.log
+2025-04-04 18:17:59.511 | INFO     | __main__:main:59 - ======================
+2025-04-04 18:17:59.511 | INFO     | __main__:main:60 - STARTING data_prep.py
+2025-04-04 18:17:59.512 | INFO     | __main__:main:61 - ======================
+2025-04-04 18:17:59.512 | INFO     | __main__:main:63 - ========================
+2025-04-04 18:17:59.513 | INFO     | __main__:main:64 - Starting CUSTOMERS prep
+2025-04-04 18:17:59.514 | INFO     | __main__:main:65 - ========================
+2025-04-04 18:17:59.548 | INFO     | __main__:save_prepared_data:55 - Data saved to C:\Projects\smart-store-aaron\data\prepared\customers_data_prepared.csv
+2025-04-04 18:17:59.550 | INFO     | __main__:main:86 - ========================
+2025-04-04 18:17:59.551 | INFO     | __main__:main:87 - Starting PRODUCTS prep
+2025-04-04 18:17:59.553 | INFO     | __main__:main:88 - ========================
+2025-04-04 18:17:59.580 | INFO     | __main__:save_prepared_data:55 - Data saved to C:\Projects\smart-store-aaron\data\prepared\products_data_prepared.csv
+2025-04-04 18:17:59.581 | INFO     | __main__:main:104 - ========================
+2025-04-04 18:17:59.582 | INFO     | __main__:main:105 - Starting SALES prep
+2025-04-04 18:17:59.582 | INFO     | __main__:main:106 - ========================
+2025-04-04 18:17:59.645 | INFO     | __main__:save_prepared_data:55 - Data saved to C:\Projects\smart-store-aaron\data\prepared\sales_data_prepared.csv
+2025-04-04 18:17:59.646 | INFO     | __main__:main:125 - ======================
+2025-04-04 18:17:59.646 | INFO     | __main__:main:126 - FINISHED data_prep.py
+2025-04-04 18:17:59.647 | INFO     | __main__:main:127 - ======================
+2025-04-04 19:44:28.270 | INFO     | utils.logger:<module>:39 - Logging to file: logs\project_log.log
+2025-04-04 19:44:28.301 | INFO     | __main__:main:59 - ======================
+2025-04-04 19:44:28.302 | INFO     | __main__:main:60 - STARTING data_prep.py
+2025-04-04 19:44:28.303 | INFO     | __main__:main:61 - ======================
+2025-04-04 19:44:28.303 | INFO     | __main__:main:63 - ========================
+2025-04-04 19:44:28.304 | INFO     | __main__:main:64 - Starting CUSTOMERS prep
+2025-04-04 19:44:28.304 | INFO     | __main__:main:65 - ========================
+2025-04-04 19:50:14.186 | INFO     | utils.logger:<module>:39 - Logging to file: logs\project_log.log
+2025-04-04 19:50:14.203 | INFO     | __main__:main:59 - ======================
+2025-04-04 19:50:14.204 | INFO     | __main__:main:60 - STARTING data_prep.py
+2025-04-04 19:50:14.205 | INFO     | __main__:main:61 - ======================
+2025-04-04 19:50:14.206 | INFO     | __main__:main:63 - ========================
+2025-04-04 19:50:14.206 | INFO     | __main__:main:64 - Starting CUSTOMERS prep
+2025-04-04 19:50:14.206 | INFO     | __main__:main:65 - ========================
+2025-04-04 19:51:32.972 | INFO     | utils.logger:<module>:39 - Logging to file: logs\project_log.log
+2025-04-04 19:51:32.975 | INFO     | __main__:main:59 - ======================
+2025-04-04 19:51:32.976 | INFO     | __main__:main:60 - STARTING data_prep.py
+2025-04-04 19:51:32.976 | INFO     | __main__:main:61 - ======================
+2025-04-04 19:51:32.977 | INFO     | __main__:main:63 - ========================
+2025-04-04 19:51:32.977 | INFO     | __main__:main:64 - Starting CUSTOMERS prep
+2025-04-04 19:51:32.978 | INFO     | __main__:main:65 - ========================
+2025-04-04 19:51:52.672 | INFO     | utils.logger:<module>:39 - Logging to file: logs\project_log.log
+2025-04-04 19:51:52.674 | INFO     | __main__:main:59 - ======================
+2025-04-04 19:51:52.675 | INFO     | __main__:main:60 - STARTING data_prep.py
+2025-04-04 19:51:52.675 | INFO     | __main__:main:61 - ======================
+2025-04-04 19:51:52.676 | INFO     | __main__:main:63 - ========================
+2025-04-04 19:51:52.677 | INFO     | __main__:main:64 - Starting CUSTOMERS prep
+2025-04-04 19:51:52.677 | INFO     | __main__:main:65 - ========================
+2025-04-04 19:58:03.954 | INFO     | utils.logger:<module>:39 - Logging to file: logs\project_log.log
+2025-04-04 19:58:03.958 | INFO     | __main__:main:59 - ======================
+2025-04-04 19:58:03.958 | INFO     | __main__:main:60 - STARTING data_prep.py
+2025-04-04 19:58:03.959 | INFO     | __main__:main:61 - ======================
+2025-04-04 19:58:03.960 | INFO     | __main__:main:63 - ========================
+2025-04-04 19:58:03.960 | INFO     | __main__:main:64 - Starting CUSTOMERS prep
+2025-04-04 19:58:03.961 | INFO     | __main__:main:65 - ========================
+2025-04-04 19:58:04.683 | INFO     | __main__:save_prepared_data:55 - Data saved to C:\Projects\smart-store-aaron\data\prepared\customers_data_prepared.csv
+2025-04-04 19:58:04.684 | INFO     | __main__:main:86 - ========================
+2025-04-04 19:58:04.685 | INFO     | __main__:main:87 - Starting PRODUCTS prep
+2025-04-04 19:58:04.686 | INFO     | __main__:main:88 - ========================
+2025-04-04 19:58:04.768 | INFO     | __main__:save_prepared_data:55 - Data saved to C:\Projects\smart-store-aaron\data\prepared\products_data_prepared.csv
+2025-04-04 19:58:04.768 | INFO     | __main__:main:104 - ========================
+2025-04-04 19:58:04.769 | INFO     | __main__:main:105 - Starting SALES prep
+2025-04-04 19:58:04.770 | INFO     | __main__:main:106 - ========================
+2025-04-04 19:58:04.915 | INFO     | __main__:save_prepared_data:55 - Data saved to C:\Projects\smart-store-aaron\data\prepared\sales_data_prepared.csv
+2025-04-04 19:58:04.915 | INFO     | __main__:main:125 - ======================
+2025-04-04 19:58:04.916 | INFO     | __main__:main:126 - FINISHED data_prep.py
+2025-04-04 19:58:04.917 | INFO     | __main__:main:127 - ======================
+2025-04-04 20:04:29.542 | INFO     | utils.logger:<module>:39 - Logging to file: logs\project_log.log
+2025-04-04 20:04:29.544 | INFO     | __main__:main:59 - ======================
+2025-04-04 20:04:29.545 | INFO     | __main__:main:60 - STARTING data_prep.py
+2025-04-04 20:04:29.545 | INFO     | __main__:main:61 - ======================
+2025-04-04 20:04:29.546 | INFO     | __main__:main:63 - ========================
+2025-04-04 20:04:29.547 | INFO     | __main__:main:64 - Starting CUSTOMERS prep
+2025-04-04 20:04:29.547 | INFO     | __main__:main:65 - ========================
+2025-04-04 20:04:29.584 | INFO     | __main__:save_prepared_data:55 - Data saved to C:\Projects\smart-store-aaron\data\prepared\customers_data_prepared.csv
+2025-04-04 20:04:29.585 | INFO     | __main__:main:86 - ========================
+2025-04-04 20:04:29.586 | INFO     | __main__:main:87 - Starting PRODUCTS prep
+2025-04-04 20:04:29.587 | INFO     | __main__:main:88 - ========================
+2025-04-04 20:04:53.884 | INFO     | utils.logger:<module>:39 - Logging to file: logs\project_log.log
+2025-04-04 20:04:53.887 | INFO     | __main__:main:59 - ======================
+2025-04-04 20:04:53.888 | INFO     | __main__:main:60 - STARTING data_prep.py
+2025-04-04 20:04:53.889 | INFO     | __main__:main:61 - ======================
+2025-04-04 20:04:53.891 | INFO     | __main__:main:63 - ========================
+2025-04-04 20:04:53.892 | INFO     | __main__:main:64 - Starting CUSTOMERS prep
+2025-04-04 20:04:53.892 | INFO     | __main__:main:65 - ========================
+2025-04-04 20:04:53.946 | INFO     | __main__:save_prepared_data:55 - Data saved to C:\Projects\smart-store-aaron\data\prepared\customers_data_prepared.csv
+2025-04-04 20:04:53.947 | INFO     | __main__:main:86 - ========================
+2025-04-04 20:04:53.948 | INFO     | __main__:main:87 - Starting PRODUCTS prep
+2025-04-04 20:04:53.949 | INFO     | __main__:main:88 - ========================
+2025-04-04 20:06:10.308 | INFO     | utils.logger:<module>:39 - Logging to file: logs\project_log.log
+2025-04-04 20:06:10.311 | INFO     | __main__:main:59 - ======================
+2025-04-04 20:06:10.311 | INFO     | __main__:main:60 - STARTING data_prep.py
+2025-04-04 20:06:10.311 | INFO     | __main__:main:61 - ======================
+2025-04-04 20:06:10.312 | INFO     | __main__:main:63 - ========================
+2025-04-04 20:06:10.312 | INFO     | __main__:main:64 - Starting CUSTOMERS prep
+2025-04-04 20:06:10.313 | INFO     | __main__:main:65 - ========================
+2025-04-04 20:06:10.355 | INFO     | __main__:save_prepared_data:55 - Data saved to C:\Projects\smart-store-aaron\data\prepared\customers_data_prepared.csv
+2025-04-04 20:06:10.357 | INFO     | __main__:main:86 - ========================
+2025-04-04 20:06:10.359 | INFO     | __main__:main:87 - Starting PRODUCTS prep
+2025-04-04 20:06:10.360 | INFO     | __main__:main:88 - ========================
+2025-04-04 20:06:41.898 | INFO     | utils.logger:<module>:39 - Logging to file: logs\project_log.log
+2025-04-04 20:06:41.900 | INFO     | __main__:main:59 - ======================
+2025-04-04 20:06:41.901 | INFO     | __main__:main:60 - STARTING data_prep.py
+2025-04-04 20:06:41.902 | INFO     | __main__:main:61 - ======================
+2025-04-04 20:06:41.902 | INFO     | __main__:main:63 - ========================
+2025-04-04 20:06:41.903 | INFO     | __main__:main:64 - Starting CUSTOMERS prep
+2025-04-04 20:06:41.904 | INFO     | __main__:main:65 - ========================
+2025-04-04 20:06:41.995 | INFO     | __main__:save_prepared_data:55 - Data saved to C:\Projects\smart-store-aaron\data\prepared\customers_data_prepared.csv
+2025-04-04 20:06:41.996 | INFO     | __main__:main:86 - ========================
+2025-04-04 20:06:41.997 | INFO     | __main__:main:87 - Starting PRODUCTS prep
+2025-04-04 20:06:41.997 | INFO     | __main__:main:88 - ========================
+2025-04-04 20:08:07.084 | INFO     | utils.logger:<module>:39 - Logging to file: logs\project_log.log
+2025-04-04 20:08:07.087 | INFO     | __main__:main:59 - ======================
+2025-04-04 20:08:07.088 | INFO     | __main__:main:60 - STARTING data_prep.py
+2025-04-04 20:08:07.089 | INFO     | __main__:main:61 - ======================
+2025-04-04 20:08:07.090 | INFO     | __main__:main:63 - ========================
+2025-04-04 20:08:07.091 | INFO     | __main__:main:64 - Starting CUSTOMERS prep
+2025-04-04 20:08:07.091 | INFO     | __main__:main:65 - ========================
+2025-04-04 20:08:07.128 | INFO     | __main__:save_prepared_data:55 - Data saved to C:\Projects\smart-store-aaron\data\prepared\customers_data_prepared.csv
+2025-04-04 20:08:07.129 | INFO     | __main__:main:86 - ========================
+2025-04-04 20:08:07.130 | INFO     | __main__:main:87 - Starting PRODUCTS prep
+2025-04-04 20:08:07.130 | INFO     | __main__:main:88 - ========================
+2025-04-04 20:08:46.399 | INFO     | utils.logger:<module>:39 - Logging to file: logs\project_log.log
+2025-04-04 20:08:46.402 | INFO     | __main__:main:59 - ======================
+2025-04-04 20:08:46.403 | INFO     | __main__:main:60 - STARTING data_prep.py
+2025-04-04 20:08:46.404 | INFO     | __main__:main:61 - ======================
+2025-04-04 20:08:46.404 | INFO     | __main__:main:63 - ========================
+2025-04-04 20:08:46.405 | INFO     | __main__:main:64 - Starting CUSTOMERS prep
+2025-04-04 20:08:46.405 | INFO     | __main__:main:65 - ========================
+2025-04-04 20:08:46.438 | INFO     | __main__:save_prepared_data:55 - Data saved to C:\Projects\smart-store-aaron\data\prepared\customers_data_prepared.csv
+2025-04-04 20:08:46.439 | INFO     | __main__:main:86 - ========================
+2025-04-04 20:08:46.440 | INFO     | __main__:main:87 - Starting PRODUCTS prep
+2025-04-04 20:08:46.442 | INFO     | __main__:main:88 - ========================
+2025-04-04 20:09:35.174 | INFO     | utils.logger:<module>:39 - Logging to file: logs\project_log.log
+2025-04-04 20:09:35.177 | INFO     | __main__:main:59 - ======================
+2025-04-04 20:09:35.178 | INFO     | __main__:main:60 - STARTING data_prep.py
+2025-04-04 20:09:35.178 | INFO     | __main__:main:61 - ======================
+2025-04-04 20:09:35.178 | INFO     | __main__:main:63 - ========================
+2025-04-04 20:09:35.179 | INFO     | __main__:main:64 - Starting CUSTOMERS prep
+2025-04-04 20:09:35.180 | INFO     | __main__:main:65 - ========================
+2025-04-04 20:09:35.228 | INFO     | __main__:save_prepared_data:55 - Data saved to C:\Projects\smart-store-aaron\data\prepared\customers_data_prepared.csv
+2025-04-04 20:09:35.228 | INFO     | __main__:main:86 - ========================
+2025-04-04 20:09:35.229 | INFO     | __main__:main:87 - Starting PRODUCTS prep
+2025-04-04 20:09:35.229 | INFO     | __main__:main:88 - ========================
+2025-04-04 20:15:18.935 | INFO     | utils.logger:<module>:39 - Logging to file: logs\project_log.log
+2025-04-04 20:15:18.938 | INFO     | __main__:main:59 - ======================
+2025-04-04 20:15:18.939 | INFO     | __main__:main:60 - STARTING data_prep.py
+2025-04-04 20:15:18.939 | INFO     | __main__:main:61 - ======================
+2025-04-04 20:15:18.940 | INFO     | __main__:main:63 - ========================
+2025-04-04 20:15:18.941 | INFO     | __main__:main:64 - Starting CUSTOMERS prep
+2025-04-04 20:15:18.944 | INFO     | __main__:main:65 - ========================
+2025-04-04 20:15:18.996 | INFO     | __main__:save_prepared_data:55 - Data saved to C:\Projects\smart-store-aaron\data\prepared\customers_data_prepared.csv
+2025-04-04 20:15:18.997 | INFO     | __main__:main:86 - ========================
+2025-04-04 20:15:18.998 | INFO     | __main__:main:87 - Starting PRODUCTS prep
+2025-04-04 20:15:19.001 | INFO     | __main__:main:88 - ========================
+2025-04-04 20:16:56.307 | INFO     | utils.logger:<module>:39 - Logging to file: logs\project_log.log
+2025-04-04 20:16:56.310 | INFO     | __main__:main:59 - ======================
+2025-04-04 20:16:56.310 | INFO     | __main__:main:60 - STARTING data_prep.py
+2025-04-04 20:16:56.310 | INFO     | __main__:main:61 - ======================
+2025-04-04 20:16:56.311 | INFO     | __main__:main:63 - ========================
+2025-04-04 20:16:56.312 | INFO     | __main__:main:64 - Starting CUSTOMERS prep
+2025-04-04 20:16:56.312 | INFO     | __main__:main:65 - ========================
+2025-04-04 20:16:56.360 | INFO     | __main__:save_prepared_data:55 - Data saved to C:\Projects\smart-store-aaron\data\prepared\customers_data_prepared.csv
+2025-04-04 20:16:56.361 | INFO     | __main__:main:86 - ========================
+2025-04-04 20:16:56.361 | INFO     | __main__:main:87 - Starting PRODUCTS prep
+2025-04-04 20:16:56.362 | INFO     | __main__:main:88 - ========================
+2025-04-04 20:21:36.236 | INFO     | utils.logger:<module>:39 - Logging to file: logs\project_log.log
+2025-04-04 20:21:36.239 | INFO     | __main__:main:59 - ======================
+2025-04-04 20:21:36.239 | INFO     | __main__:main:60 - STARTING data_prep.py
+2025-04-04 20:21:36.239 | INFO     | __main__:main:61 - ======================
+2025-04-04 20:21:36.240 | INFO     | __main__:main:63 - ========================
+2025-04-04 20:21:36.240 | INFO     | __main__:main:64 - Starting CUSTOMERS prep
+2025-04-04 20:21:36.241 | INFO     | __main__:main:65 - ========================
+2025-04-04 20:21:36.277 | INFO     | __main__:save_prepared_data:55 - Data saved to C:\Projects\smart-store-aaron\data\prepared\customers_data_prepared.csv
+2025-04-04 20:21:36.277 | INFO     | __main__:main:86 - ========================
+2025-04-04 20:21:36.278 | INFO     | __main__:main:87 - Starting PRODUCTS prep
+2025-04-04 20:21:36.279 | INFO     | __main__:main:88 - ========================
+2025-04-04 20:21:36.309 | INFO     | __main__:save_prepared_data:55 - Data saved to C:\Projects\smart-store-aaron\data\prepared\products_data_prepared.csv
+2025-04-04 20:21:36.310 | INFO     | __main__:main:104 - ========================
+2025-04-04 20:21:36.310 | INFO     | __main__:main:105 - Starting SALES prep
+2025-04-04 20:21:36.311 | INFO     | __main__:main:106 - ========================
+2025-04-04 20:21:36.358 | INFO     | __main__:save_prepared_data:55 - Data saved to C:\Projects\smart-store-aaron\data\prepared\sales_data_prepared.csv
+2025-04-04 20:21:36.359 | INFO     | __main__:main:125 - ======================
+2025-04-04 20:21:36.359 | INFO     | __main__:main:126 - FINISHED data_prep.py
+2025-04-04 20:21:36.360 | INFO     | __main__:main:127 - ======================
