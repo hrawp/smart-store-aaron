@@ -2,8 +2,46 @@
 #
 Project 5
 
-I used the SQL from the description.  I had trouble getting it to run in Power Analyze and Advaced Options.  CHATGBT helped me find out that I needed to use the Advanced Option when connecting to the database.
+Describe your SQL queries and reports.
+I used the SQL from the description.  I had trouble getting it to run in Power Query and Advanced Editor.  CHATGBT helped me find out that I needed to use the Advanced Options when connecting with ODBC.  
 
+Here are the steps/
+
+Open Power BI Desktop
+
+Go to the Home tab at the top
+
+Click Get Data → Select ODBC
+
+In the ODBC window, you’ll see:
+
+🔘 Data source name (DSN) — pick your DSN (e.g., SmartSalesDSN)
+
+✅ Below that, you’ll see a small clickable “Advanced options” link/dropdown.
+
+👉 Click on Advanced options and it will expand the panel.
+
+
+
+
+Explain dashboard design choices.  
+I designed my dashboard with the items called out in the instructions, but I did add all the items from seperated sections of the instructions.
+
+Include screenshot of: Power BI Model View / Spark SQL Schema
+
+![Model](image-3.png)
+
+Include screenshot of: Query results
+
+![SQL](image-4.png)
+
+Include screenshot of: Final Dashboard / Charts
+
+![Filtered on South](image.png)
+
+![No Filters](image-1.png)
+
+![Date Slider](image-2.png)
 
 Project 4
 
