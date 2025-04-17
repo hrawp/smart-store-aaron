@@ -46,7 +46,7 @@ I would suggest removing laptops from 16FORLESS promotion code.  The promotion c
 That may rasie the question what about the other for promotional codes.  I would say limit the precentage discount on laptops or exclude them all together.
 
 Section 7. Challenges
-I was somewhat divided whether I should use a python OLAP or POWER BI with OLAP.  I decided to go with PowerBI for P6 since I felt it had all the tools and views necessary.  This includes the slice and dice through the data to help answer the buisness questions I had.
+I was somewhat divided whether I should use a python OLAP or POWER BI with OLAP.  I decided to go with PowerBI for P6 since I felt it had all the tools and views necessary.  This includes the slice and dice through the data to help answer the business questions I had.
 
 
 
