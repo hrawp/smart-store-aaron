@@ -1,3 +1,61 @@
+# Project 7 - Dealership Location for EVs
+
+## Section 1. The Business Goal
+A business owner wishes to build an EV dealership in three different cities in the state of Washington.  They do not want to build in Seattle. They do not want to sell Tesla cars, but would like recommendations on other makes that customers tend to own in that city.  They want data from 2024 and first quarter of 2025 to base their decision on.  
+
+## Section 2. Data Source
+The data for this project comes from State of Washington data.wa.gov
+with title "Electric Vehicle Population Data"
+with metadata updated April 19th, 2025
+
+## Section 3. Tools Used
+There was some data cleaning needed.  The areas which needed updated were determined based on the output of etl-to-dw-electric-vehicle.py.
+Python etl-to-dw-electric-vehicle.py was used to parse the data into data warehouse, electric-vehicle.db.
+Visualization report was created in Power BI.
+
+
+## Section 4. Workflow & Logic
+A power Bi visualization was created with the following:
+count of electric vehicle type with the client wanting Battery Electric considered over Electric Hybrid models.
+map location of the cities in Washington State. (It render properly when drilling down into the cities.)
+There is a slicer filter for make where we exclude Tesla and one for city to exclude Seattle.
+There are two clustered bar charts. One which focuses on Model Year.  The other focuses on city.
+Both cluster bar charts contain make and model.
+
+![Overview for 2024](image-13.png)
+
+## Section 5. Results (narrative + visualizations)
+
+
+![Model Year 2024 totals by City](image-20.png)
+![Model Year 2025 totals by City](image-19.png)
+
+
+This data shows Rivian, BMW, and KIA had the most owners.
+It also shows Bellevue, Redmond, Vancouver, and Bothell would be where more EVs are owned.
+
+![Bellevue](image-21.png)
+![Redmond](image-22.png)
+![Vancouver](image-23.png)
+![Bothell](image-24.png)
+
+## Section 6. Suggested Business Action
+
+Dealership 1 should be at Bellevue and sell BMW. This is in demand in Bellevue.
+Dealership 2 should be at Bothell and sell KIA. This is in demand in Bothell.
+Dealership 3 should be at Redmond and sell RIVIAN.  It is an up and comer in 2025.
+
+Vancouver was not selected since the business owner decided to build in the United States.
+
+There are other factors to consider beyond this assessment. Like location, other dealership competiton, etc.  The purpose of this assessment is demand focused for city and model for 2025 and 2024.
+
+## Section 7. Challenges
+It was a little hard going through screens to come up with the conclusion.  I think the conclusions were sound and helpful to the business partner. But I had to compare screens. I wish that were not the case.
+
+## Section 8. Ethical Considerations
+There was some indication a position location was in the data set.  I find that very concerning.  I'm not sure it is in the driver's best interest to be tracking this.  I would be somewhat upset about that. It really brings to light this whole AI/BI conversation.  What data should be gathered and how should it be used.  Will AI do want it wants.  I think so. Humans need to focus on holding it back.  I think that will be the challenge.  Not so much what AI can do.  Rather can we stop it.
+
+
 # smart-store-aaron
 #
 # Project 6 - The Promotion
