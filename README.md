@@ -26,17 +26,26 @@ Both cluster bar charts contain make and model.
 
 ## Section 5. Results (narrative + visualizations)
 
-
+Model Year 2024 totals by City
 ![Model Year 2024 totals by City](image-20.png)
+
+Model Year 2025 totals by City
 ![Model Year 2025 totals by City](image-19.png)
 
 
 This data shows Rivian, BMW, and KIA had the most owners.
 It also shows Bellevue, Redmond, Vancouver, and Bothell would be where more EVs are owned.
 
+Bellevue
 ![Bellevue](image-21.png)
+
+Redmond
 ![Redmond](image-22.png)
+
+Vancouver
 ![Vancouver](image-23.png)
+
+Bothell
 ![Bothell](image-24.png)
 
 ## Section 6. Suggested Business Action
